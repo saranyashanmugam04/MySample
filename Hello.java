@@ -1,7 +1,7 @@
 public class Hello{
 public static void main(String[] args){
 
-	System.out.println("Hello");
+	System.out.println("this is my first program - configure with jenkins");
 
 }
 }
